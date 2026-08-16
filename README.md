@@ -46,7 +46,7 @@ A living record of what I've built while learning to develop with Claude and the
 - Managed agents (event streaming, sandboxed execution)
 
 **Artifacts:**
-- [ ] Repo/folder link: `/agent-fundamentals/claude-platform-101/`
+- [x] Repo/folder link: `/agent-fundamentals/claude-platform-101/`
 - [ ] Short demo (GIF or clip) of the agent loop running
 - [ ] Notes on cost/latency trade-offs across models, tested on my own example
 
